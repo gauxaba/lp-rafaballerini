@@ -1,0 +1,5 @@
+SOBRE O PROJETO: Página criada usando como referencia o video da Youtuber Rafaella Ballerini (Canal Rafaella Ballerini): https://www.youtube.com/watch?v=llF6vD-RljE
+
+MINHA EXPERIÊNCIA: Projeto bem simples, mas que me ajudou a entender o funcionamento de outras ferramentas, como FIGMA e sites auxiliares para CSS. Certamente serão de grande ajuda para projetos futuros. Realizei o projeto no mesmo dia, acompanhando e me antecipando nas etapas que tinha mais segurança. Após finalizar o video, visitei o repositório da Rafa para revisar e tirar dúvidas sobre a centralização da imagem de 'footer'.
+
+PLANOS PARA O FUTURO: O botão "MINHA VERSÃO" irá conter modificações minhas a partir do mesmo projeto. Ou seja, o botão direcionará para a mesma página, mas feita utilizando outros frameworks, recursos e tecnologias que estou aprendendo e que irei aprender no futuro (javacript, php, python, etc), tudo destro desta mesma propósta do projeto.
